@@ -11,4 +11,4 @@ https://chasestaples.github.io/HTML-CSS-JS/Login-Screen/index.html
 
 # Navigation Bar
 
-https://chasestaples.github.io/HTML-CSS-JS/NavBar/index.html
+https://chasestaples.github.io/HTML-CSS-JS/Vertical-Menu-NavBar/menu.html
