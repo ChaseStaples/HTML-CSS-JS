@@ -11,10 +11,10 @@ https://chasestaples.github.io/HTML-CSS-JS/My-Webpage/index.html
 
 https://chasestaples.github.io/HTML-CSS-JS/Login-Screen/Login.html
 
-![Login Screen](/Displays/LoginScreen.png)
+![Login Screen](/Displays/LoginScreen.PNG)
 
 # Navigation Bar
 
 https://chasestaples.github.io/HTML-CSS-JS/Vertical-Menu-NavBar/menu.html
 
-![Navigation Bar](/Displays/NavBar.png)
+![Navigation Bar](/Displays/NavBar.PNG)
