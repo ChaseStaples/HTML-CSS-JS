@@ -7,7 +7,7 @@ https://chasestaples.github.io/HTML-CSS-JS/My-Webpage/index.html
 
 # Login Screen
 
-https://chasestaples.github.io/HTML-CSS-JS/Login-Screen/index.html
+https://chasestaples.github.io/HTML-CSS-JS/Login-Screen/Login.html
 
 # Navigation Bar
 
