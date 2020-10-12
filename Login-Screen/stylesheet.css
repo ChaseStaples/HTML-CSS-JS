@@ -1,0 +1,101 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Times;
+    background: url(forest.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 577px;
+
+}
+
+
+.box{
+    width: 350px;
+    padding: 50px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background-color: #383a3a;
+    border-radius: 25px;
+    border: 2px solid #00BFFF;
+    opacity: .9;
+}
+
+.box:hover{
+    background-color: rgb(48, 48, 48);
+}
+
+.box h1{
+    color: #2c2c2c;
+    font-weight: 550px;
+    font-size: 60px;
+    text-transform: uppercase;
+    border: white;
+    -webkit-text-stroke: .5px white;
+	-webkit-text-fill-color: #2c2c2c;
+}
+
+.box input[type = "text"], .box input[type = "password"]{
+    border: 0;
+    border-radius: 25px;
+    text-align: center;
+    background: none;
+    background-color: #4b4d4d;
+    margin: 25px auto;
+    display: block;
+    transition: 0.5s;
+    border: 2px solid #00BFFF;
+    padding: 15px 10px;
+    width: 250px;
+    color: white;
+    outline: none;
+}
+
+.box input[type = "text"]:focus, .box input[type = "password"]:focus{
+    width: 275px;
+    border-color: #00FA9A;
+}
+
+.box input[type = "text"]:hover, .box input[type = "password"]:hover{
+    border-color: #00FA9A;
+}
+
+
+.box input[type ="button"]{
+    order: 0;
+    border-radius: 25px;
+    text-align: center;
+    background: none;
+    margin: 25px auto;
+    display: block;
+    transition: 0.5s;
+    border: 2px solid #00BFFF;
+    padding: 15px 45px;
+    width: 250px;
+    color: white;
+    outline: none;
+    
+}
+
+.box input[type ="button"]:hover{
+    background-color: #00BFFF;
+}
+
+.inline input[type="text"], .inline input[type="password"]{
+    position: relative;
+}
+.inline i{
+    position: absolute;
+    padding: 15px 7px;
+    left: 35px;
+    color: grey;
+
+}
+
+
+
+
