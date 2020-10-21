@@ -2,7 +2,7 @@ function check(form)
     {
         if(form.username.value == "Chase Staples" && form.password.value == "1234")
             {
-                window.open("https://chasestaples.github.io/My-Webpage/index.html")
+                window.open("https://chasestaples.github.io/HTML-CSS-JS/My-Webpage/index.html#")
             }
         else
             {

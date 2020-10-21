@@ -5,6 +5,7 @@
     opacity: .9;
 }
 
+
 body {
     display: flex;
     align-items: center;
@@ -30,7 +31,7 @@ body {
     left: 6px;
     right: 6px;
     bottom: 6px;
-    background: black;
+    background: rgb(39, 37, 37);
     border-radius: 50%;
     z-index: 10;
 
