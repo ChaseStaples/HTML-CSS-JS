@@ -18,3 +18,9 @@ https://chasestaples.github.io/HTML-CSS-JS/Login-Screen/Login.html
 https://chasestaples.github.io/HTML-CSS-JS/Vertical-Menu-NavBar/menu.html
 
 ![Navigation Bar](/Displays/NavBar.PNG)
+
+# Loading Screen
+
+https://chasestaples.github.io/HTML-CSS-JS/Loading-Screen/loading.html
+
+![Navigation Bar](/Displays/Loading.PNG)
