@@ -503,22 +503,22 @@ p {
 
 }
 #projects .projects .slider .slide.slide1{
-    background: url(./img/man.jpg);
+    background: url(./img/RPM.PNG);
     background-size: cover;
     background-position: center;
 }
 #projects .projects .slider .slide.slide2{
-    background: url(./img/man.jpg);
+    background: url(./img/PSS.PNG);
     background-size: cover;
     background-position: center;
 }
 #projects .projects .slider .slide.slide3{
-    background: url(./img/man.jpg);
+    background: url(./img/MSV.PNG);
     background-size: cover;
     background-position: center;
 }
 #projects .projects .slider .slide.slide4{
-    background: url(./img/man.jpg);
+    background: url(./img/ED.PNG);
     background-size: cover;
     background-position: center;
 }
