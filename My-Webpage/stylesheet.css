@@ -504,28 +504,35 @@ p {
 }
 #projects .projects .slider .slide.slide1{
     background: url(./img/RPM.PNG);
-    background-size: cover;
+    height: 100%;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #projects .projects .slider .slide.slide2{
     background: url(./img/PSS.PNG);
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100vh;
 }
 #projects .projects .slider .slide.slide3{
     background: url(./img/MSV.PNG);
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100vh;
+    top: 25px;
 }
 #projects .projects .slider .slide.slide4{
     background: url(./img/ED.PNG);
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100vh;
 }
 #projects .projects .slider .slide.slide5{
     background: url(./img/man.jpg);
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
