@@ -21,6 +21,6 @@ https://chasestaples.github.io/HTML-CSS-JS/Vertical-Menu-NavBar/menu.html
 
 # Loading Screen
 
-'https://chasestaples.github.io/HTML-CSS-JS/Loading Screen/loading.html'
+https://chasestaples.github.io/HTML-CSS-JS/Loading Screen/loading.html
 
 ![Navigation Bar](/Displays/Loading.PNG)
